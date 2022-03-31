@@ -1,2 +1,5 @@
 # Price-prediction-using-ML
-Predicting the price of houses and bulldozers using ML.
+Predicting future prices and sales for:
+1. The housing market
+2. Bulldozers
+3. Stores
